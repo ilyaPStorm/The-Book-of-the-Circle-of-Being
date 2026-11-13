@@ -1,0 +1,105 @@
+{
+  "title": {
+    "ru": "Книга Круга",
+    "en": "The Book of the Circle of Being"
+  },
+  "edition": "bilingual-v1",
+  "verses": 2127,
+  "chapters": 12,
+  "numbering": "chapter:verse of the canonical Russian edition (PDF 2024, edition id circle-book-user-pdf-2024-2a17f077dfee); the English text uses the same IDs",
+  "sources": {
+    "ru": "Книга Круга, © Общество Всеобщего Круга, составитель, 2024 (ISBN 978-5-0064-9466-4); KnigaKruga.ru",
+    "en": "Official English translation published at https://circlebook.info/en/ (fetched 2026-10-08)"
+  },
+  "alignment_notes": [
+    {
+      "id": "1:64",
+      "alignment": "split_from_merged",
+      "site_numbers": [
+        64
+      ]
+    },
+    {
+      "id": "1:65",
+      "alignment": "split_from_merged",
+      "site_numbers": [
+        64
+      ]
+    },
+    {
+      "id": "6:74",
+      "alignment": "split_from_merged",
+      "site_numbers": [
+        74
+      ]
+    },
+    {
+      "id": "6:75",
+      "alignment": "split_from_merged",
+      "site_numbers": [
+        74
+      ]
+    },
+    {
+      "id": "6:78",
+      "alignment": "joined_from_two",
+      "site_numbers": [
+        77,
+        78
+      ]
+    }
+  ],
+  "site_numbering_differences": {
+    "1": [
+      "site [64] -> ['1:64', '1:65'] split"
+    ],
+    "6": [
+      "site [74] -> ['6:74', '6:75'] split",
+      "site [77, 78] -> ['6:78'] joined"
+    ]
+  },
+  "sha256": {
+    "bilingual/chapters/01-spirit.md": "2a5fd87cb7f93f182fa15a57bef9615474b3705c3d394aa0301138639c57d300",
+    "bilingual/chapters/02-world.md": "2f88e74f76d310dc569f9c33e2b3ff1b9deda754520a4d9c93f4dfbf14ca6f26",
+    "bilingual/chapters/03-path.md": "2412b1f4857f875ce91d7466de1b290bbf830b2cfcfeca40ed4df145d38f7a58",
+    "bilingual/chapters/04-door.md": "d6ca644ba2ae2a4f56fdfba83759640b0b4e26c56e2799fed5c47e495a503d8c",
+    "bilingual/chapters/05-void.md": "f5559668dda3bd797b637335dd21fe182e49e5c000700cf94ff582a27b945399",
+    "bilingual/chapters/06-forms.md": "ac22c40f6719a3ee6bcb083a3a2ae79c117ba79bc8600e6583cb8091fd18d69d",
+    "bilingual/chapters/07-foundation.md": "19e54d1cf6ef2959088e5347e47593f2434761db6f6b131aa306455a90268f66",
+    "bilingual/chapters/08-continuation.md": "b6585d5beb19ddde7e1f3bf42949d78ab6cd3a2c51846b6895b85787bfbc2aa9",
+    "bilingual/chapters/09-heart.md": "8da027b657bee54a40dcffad5daf2b88ec65df5915f6214d4db3932d19223100",
+    "bilingual/chapters/10-discernment.md": "deb4a8ca0c5dc3a33d11c3f90107569c6c4becddd241f0e3ca843ea1c8754738",
+    "bilingual/chapters/11-awakened.md": "d4639f43a2d7543463b27946f14b359eba9acc9e19e36ad55412be4ba202b8dc",
+    "bilingual/chapters/12-approaching.md": "4b36695708faaa5401926831ce3c2c66f5f9514b80e4b6c33c6f4b6537f6a2fd",
+    "bilingual/verses.jsonl": "73cd58ea728419073c74066dfdaec83c0dc8402bbf2f00df089c81203abccf3c",
+    "en/book-en.md": "42c362772fb79143fcb1204487bb01a4a30eda39de9e816cdbf2cfc7510f533f",
+    "en/chapters/01-spirit.md": "f0b28564f962ff16cff551adf7dcbcaa78cc704831d4e6bc93df7688c3934ff5",
+    "en/chapters/02-world.md": "0f89e8d648d22e854ad5676a922e5bbe5e985151c9d24515662cfd38043ebf68",
+    "en/chapters/03-path.md": "1f263cb92d19db3c64bf1a9a3fd42974c19ebc5540ae6ec4b8a8395bce120b43",
+    "en/chapters/04-door.md": "c1de5a00ceabf53daeff6c4ec9fe06ad77c5a6530a6c37c9ab6cf6a47cce20ee",
+    "en/chapters/05-void.md": "b10d71999feceac710deebfd235196db4ed620ca882cb83f4213d963488d7246",
+    "en/chapters/06-forms.md": "1055e542f5f6f425cb341f73a8ea28fd245fa2aa39af23a11b235fa1316de2c8",
+    "en/chapters/07-foundation.md": "324ef52101cf15626b4fe52628ad0e710f4498cbb8fbf2b2d3eafa5697351262",
+    "en/chapters/08-continuation.md": "41ebd031ce3d9f7a42d49778663e4c2cc68eab050decb578c15c83baf115a933",
+    "en/chapters/09-heart.md": "0670d89fab4f4e683095f6ff520f5a05df2f7e319ad259dd9b56c8e2d4020802",
+    "en/chapters/10-discernment.md": "8c04bcd372caf166ee9c704e820799ddde7e3d45001918f038a97ab08f7c0fcf",
+    "en/chapters/11-awakened.md": "2a9f5fc38210bd5f24bb58f125fd057f78c02616eb5ffb02f2c2c1c8c082ce80",
+    "en/chapters/12-approaching.md": "cd08ed2f78827b1e997d4d7d3cb0f54618019c6198e378a359e0007716729d09",
+    "en/verses.jsonl": "605334139f412b15ab697eb1aa74652db861c10ebb1846bfdeeef4ca50dff4ba",
+    "front-matter.json": "2e6a959f1788c04467ea16b7e604d07d84789b3807d3149884b0d83d6b904375",
+    "ru/book-ru.md": "ad93e5877a67bf5b7f909c66666720d8d403763a15be239227e8302d87343d85",
+    "ru/chapters/01-spirit.md": "0a91abf9ce30e7aad3c53dc1ffc3dea797bef1ac060e8f7af45ff7d99d3789eb",
+    "ru/chapters/02-world.md": "3ee024ce70388b332b92d00ec450f96bdeb4459283a7bab68eb4f1bc807bf85f",
+    "ru/chapters/03-path.md": "9f1bc830295727b714e79c6d4061bb9c9f51b9dd7d61dbed351db60cf57e4d11",
+    "ru/chapters/04-door.md": "1907bf6382d569b01c35716d8d8d9325b49f5eeda97a01d5e8224b4db18fae50",
+    "ru/chapters/05-void.md": "b3b6081ffecc9a1547c28b887e4e741c02ff956e44eb6a88a4f4108f7bc9dfd2",
+    "ru/chapters/06-forms.md": "ae6ea653be66313c11c480b4cdd769fb8b85bc994994ec227d6ecb4684b9e63d",
+    "ru/chapters/07-foundation.md": "9f341d6feb61594b63a10f769d5890f2bc4e88b2158b23750bd743ac4e41afdc",
+    "ru/chapters/08-continuation.md": "6d87d435ba5ac82f6ee6fcd7688c367a2cc7300dbc6b6489a5a053f64ffcd985",
+    "ru/chapters/09-heart.md": "0d83d8ffa47ec77180fabbb7cf1c80dfdb22db3cba8e8674f26708661f4e3109",
+    "ru/chapters/10-discernment.md": "76ffe380375f11b6b3f1ef0b270be9ffa954e754377ca613b91f8c70f7580576",
+    "ru/chapters/11-awakened.md": "28f64afafaa44ff5ec936edacc4f512982a19bc1cacfc564adc04d386196714f",
+    "ru/chapters/12-approaching.md": "6bb428e876f7f8158f10649ed9382a5d186a03fe091501cf8c11c0547d9f31df",
+    "ru/verses.jsonl": "dcb25da2770478ab7a5d5ab6d546c624f1d87ba6c44769e4ba0143755ac3a654"
+  }
+}

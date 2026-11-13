@@ -1,0 +1,39 @@
+{
+  "ru": {
+    "epigraph": "Человек не ведает своей судьбы и думает, что мал. Если бы он увидел, что есть он в ткани мироздания и какова природа его пути, он открыл бы себя великим и бесконечным, как сам мир.",
+    "closing_formula": "Такова Книга о Пути восхождения в Круг Бытия.",
+    "colophon": "Общество Всеобщего Круга. Записал услышавший Книгу.",
+    "chapters": {
+      "1": "Дух",
+      "2": "Мир",
+      "3": "Путь",
+      "4": "Дверь",
+      "5": "Пустота",
+      "6": "Облики",
+      "7": "Опора",
+      "8": "Продолжение",
+      "9": "Сердце",
+      "10": "Различение",
+      "11": "Пробужденный",
+      "12": "Приближение"
+    }
+  },
+  "en": {
+    "epigraph": "A person knows not his destiny and thinks himself small. Were he to see that he is woven into the fabric of the universe, and understand the nature of his path, he would discover himself great and infinite, like the world itself.",
+    "closing_formula": "Thus is the Book of the Path of ascension into the Circle of Being.",
+    "chapters": {
+      "1": "Spirit",
+      "2": "The World",
+      "3": "The Path",
+      "4": "The Door",
+      "5": "The Void",
+      "6": "The Forms of the Gods",
+      "7": "The Foundation",
+      "8": "Continuation",
+      "9": "The Heart",
+      "10": "Discernment",
+      "11": "The Awakened",
+      "12": "Approaching"
+    }
+  }
+}
